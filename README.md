@@ -4,6 +4,8 @@
 
 ## 実行例
 
+このサンプルの実行前に別ターミナルから`cargo run -p print-server`してローカルホストの3000番にサーバを起動しています。
+
 ```
 $ curl http://localhost:3000
 Hello from `GET /`
